@@ -7,7 +7,7 @@ const Header = () => {
         <div className='navBaar'>
             <div>
                 <img src={logo} alt="logo" width={"40px"}/>
-                <span>Rental</span>
+                <span>Rental Hub</span>
             </div>
             <div>
                 <span><NavLink active="" to={'./'} >Rent</NavLink></span>
